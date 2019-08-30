@@ -60,9 +60,9 @@ EasyBook uses upaiyun CDN to make everyone lncluding Chinese visitors feel speed
 
 ### Support the Developers ###
 
-* **Add a Link: ** This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook][github-easybook].
-* **Donate: ** Please visit [http://laobubu.net/donate.html](http://laobubu.net/donate.html).
-* **Star and Fork on GitHub: ** You can also send out your precious star [on GitHub][github-easybook].
+* **Add a Link:** This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook][github-easybook].
+* **Donate:** Please visit [http://laobubu.net/donate.html](http://laobubu.net/donate.html).
+* **Star and Fork on GitHub:** You can also send out your precious star [on GitHub][github-easybook].
 
 ## Support me by... ##
 
