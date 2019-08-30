@@ -1,18 +1,18 @@
 # Site settings
-title: Another Blog
-url: 
-baseurl: 
-#timezone: Asia/Chongqing
+title: xpchen_ml Blog
+url: "http://xpchen0630.github.io"
+baseurl: ""
+timezone: Asia/Guangzhou
 description: >
-  One or more sentences introducing this blog.
+  a reading note about machine learning.
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: 867813005@qq.com
+author: xpchen
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
 #twitter_username: twitter_username
-#github_username:  github_username
+github_username:  xpchen0630
 profile_links:
   Email: "mailto:your_email@example.com"
   GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
