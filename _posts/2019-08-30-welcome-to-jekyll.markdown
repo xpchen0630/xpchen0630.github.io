@@ -60,9 +60,9 @@ EasyBook uses upaiyun CDN to make everyone lncluding Chinese visitors feel speed
 
 ### Support the Developers ###
 
-* **Add a Link:** This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook][github-easybook].
-* **Donate:** Please visit [http://laobubu.net/donate.html](http://laobubu.net/donate.html).
-* **Star and Fork on GitHub:** You can also send out your precious star [on GitHub][github-easybook].
+**Add a Link:** This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook][github-easybook].
+**Donate:** Please visit [http://laobubu.net/donate.html](http://laobubu.net/donate.html).
+**Star and Fork on GitHub:** You can also send out your precious star [on GitHub][github-easybook].
 
 ## Support me by... ##
 
@@ -77,7 +77,7 @@ You can also send out your precious star [on GitHub](https://github.com/xpchen06
 ## And Here We Go ##
 
 My aritcles will mostly focus on machine learing (both theory and application). They can be seen as my reading notes and learning summary of the recent period. 
-Please contact me by email (867813005@qq.com) if you have any questions and doubts in reading them. It's my pleasure to discuss with you.
+If you have any questions and doubts in reading them, please contact me by email (867813005@qq.com). It's my pleasure to discuss with you.
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
