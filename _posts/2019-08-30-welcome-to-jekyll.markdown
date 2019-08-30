@@ -6,7 +6,7 @@ categories: firstblog
 permalink: /firstblog
 ---
 
-This is my first blog of this website. Thanks to Jekyll, I can rebuild the site in many different ways easily. A theme named EasyBook is also used which offers me more choices to improve it.
+This is my first blog of the website. Thanks to Jekyll, it can be rebuild in many different ways easily. A theme named EasyBook is also used which offers me more choices to improve the site.
 
 <!--more-->
 
