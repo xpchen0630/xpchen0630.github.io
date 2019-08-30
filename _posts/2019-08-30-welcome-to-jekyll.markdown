@@ -8,11 +8,11 @@ permalink: /firstblog
 
 This is my first blog of this website. Thanks to Jekyll, I can rebuild the site in many different ways easily. A theme named EasyBook is also used which offers me more choices to improve it.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
 <!--more-->
 
-## Jekyll Basic Functions ##
+## Jekyll ##
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter.
 
 GitHub Flavored Markdown is supported.
 
