@@ -11,11 +11,11 @@ email: 867813005@qq.com
 author: xpchen
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
-#twitter_username: twitter_username
+# twitter_username: twitter_username
 github_username:  xpchen0630
 profile_links:
-  Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  Email: "mailto:867813005@qq.com"
+  # GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
