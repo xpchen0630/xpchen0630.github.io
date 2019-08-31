@@ -6,13 +6,13 @@ categories: Hello
 permalink: /Hello
 ---
 
-This is my first blog of the website. Please allow me to briefly introduce this website and how it was built.
+This is my first blog of this website. Please allow me to briefly introduce it.
 
 <!--more-->
 
 ## Jekyll & EasyBook ##
 
-Thanks to Jekyll, this site can be rebuilt in many different ways. A template named [EasyBook][github-easybook] is also used which offers me more choices to improve the site.
+This site is built on [Jekyll][jekyll]. A template named [EasyBook][github-easybook] is also used which offers me more choices to improve the site.
 
 Below is the description of Jekyll on its [official website](https://jekyllrb.com/docs/).
 
@@ -68,7 +68,7 @@ If my articles may have inspired you, a link adding will be appreciated. My site
 
 You can also send out your precious star [on GitHub](https://github.com/xpchen0630/xpchen0630.github.io).
 
-## And Here We Go ##
+## What is it About? ##
 
 My articles will mostly focus on machine learning (both theory and application). They can be seen as my reading notes and summary of the recent period. 
 If you have any questions and doubts in reading them, please contact me by email (stxpchen@foxmail.com). It's my pleasure to discuss with you.
