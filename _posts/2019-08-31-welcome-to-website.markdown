@@ -70,7 +70,7 @@ You can also send out your precious star [on GitHub](https://github.com/xpchen06
 
 ## What is it About? ##
 
-My articles will mostly focus on machine learning (both theory and application). They can be seen as my reading notes and summary of the recent period. 
+My articles will mostly focus on machine learning (both theory and application). They can be seen as my reading notes and summary of the recent period.  
 If you have any questions and doubts in reading them, please contact me by email (stxpchen@foxmail.com). It's my pleasure to discuss with you.
 
 [jekyll]:      http://jekyllrb.com
