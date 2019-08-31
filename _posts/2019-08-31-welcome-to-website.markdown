@@ -1,18 +1,22 @@
 ---
 layout: post
 title:  "Welcome to xpchen's Blog"
-date:   2019-08-30 21:04
-categories: firstblog
-permalink: /firstblog
+date:   2019-08-31 22:20
+categories: Hello
+permalink: /Hello
 ---
 
-This is my first blog of the website. Thanks to Jekyll, it can be rebuild in many different ways easily. A theme named EasyBook is also used which offers me more choices to improve the site.
+This is my first blog of the website. Please allow me to briefly introduce this website and how it was built.
 
 <!--more-->
 
-## Jekyll ##
+## Jekyll & EasyBook ##
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter.
+Thanks to Jekyll, this site can be rebuilt in many different ways. A template named [EasyBook][github-easybook] is also used which offers me more choices to improve the site.
+
+Below is the description of Jekyll on its [official website](https://jekyllrb.com/docs/).
+
+> Jekyll is a simple, extendable, static site generator. You give it text written in your favorite markup language and it churns through layouts to create a static website. Throughout that process you can tweak how you want the site URLs to look, what data gets displayed in the layout, and more.
 
 GitHub Flavored Markdown is supported.
 
@@ -28,7 +32,7 @@ And $$\mathcal{ Mathematics }$$ is supported!
 
 Use `$$` to wrap your formulas. For example, `$$ e^{i\pi} + 1 = 0 $$` displays $$  e^{i\pi} + 1 = 0  $$
 
-Multi-line forumlas are supported too.
+Multi-line formulas are supported too.
 
 $$
 \begin{aligned}
@@ -40,25 +44,15 @@ $$
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-## EasyBook ##
+I'm using [EasyBook][github-easybook] the template from [laobubu.net](http://laobubu.net) as well which has some advanced functions. Some features are supported now:
 
-I'm using [EasyBook][github-easybook] the template from [laobubu.net](http://laobubu.net). 
+> * **Pagination** is enabled.
+> * **Disqus** or **多说** is ready.
+> * **TOC** for posts is enabled.
+> * **Profile** including your links and avatar on the sidebar.
+> * *And more...*
 
-### Advanced Functions ###
-
-Some features are supported now:
-
-* **Pagination** is enabled.
-* **Disqus** or **多说** is ready.
-* **TOC** for posts is enabled.
-* **Profile** including your links and avatar on the sidebar.
-* *And more...*
-
-> **Tips:** You can disable Disqus or 多说 on posts/pages by adding `nocomments: true` into [YAML Front Matter][frontmatter].
-
-EasyBook uses upaiyun CDN to make everyone lncluding Chinese visitors feel speedy. You can find it in `_includes/footer.html` and change it to your favorite CDN like Google CDN.
-
-### Support the Developers ###
+The template is for free. We can support the developers of [EasyBook][github-easybook] by the following ways:  
 
 **Add a Link:** This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook][github-easybook].  
 **Donate:** Please visit [http://laobubu.net/donate.html](http://laobubu.net/donate.html).  
@@ -76,8 +70,8 @@ You can also send out your precious star [on GitHub](https://github.com/xpchen06
 
 ## And Here We Go ##
 
-My aritcles will mostly focus on machine learing (both theory and application). They can be seen as my reading notes and learning summary of the recent period. 
-If you have any questions and doubts in reading them, please contact me by email (867813005@qq.com). It's my pleasure to discuss with you.
+My articles will mostly focus on machine learning (both theory and application). They can be seen as my reading notes and summary of the recent period. 
+If you have any questions and doubts in reading them, please contact me by email (stxpchen@foxmail.com). It's my pleasure to discuss with you.
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
